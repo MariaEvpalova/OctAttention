@@ -22,7 +22,7 @@ if __name__=="__main__":
 
 ######For MPEG,MVUB######    
     oriDir = '/myData/*.ply'
-    outDir = 'Data/Obj/train/'
+    outDir = '/myData/'
     ptNamePrefix = 'MPEG_' # 'MVUB_'
 
     printl = CPrintl('Preparedata/makedFileObj.log')

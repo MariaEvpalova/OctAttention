@@ -21,7 +21,7 @@ def makedFile(dir):
 if __name__=="__main__":
 
 ######For MPEG,MVUB######    
-    oriDir = '/8iVFBv2/longdress/Ply/*.ply'
+    oriDir = '/myData/*.ply'
     outDir = 'Data/Obj/train/'
     ptNamePrefix = 'MPEG_' # 'MVUB_'
 
